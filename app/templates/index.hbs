@@ -2,4 +2,9 @@
   {{#each model as |article|}}
     {{article-tile article=article}}
   {{/each}}
+
+  <div class="new-article">
+    <!-- This is how to style a link as a button properly in Ember -->
+    {{#link-to 'admin' tagName='button' class='btn btn-primary' }}Admin{{/link-to}}
+  </div>
 </div>

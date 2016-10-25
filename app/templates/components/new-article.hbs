@@ -1,0 +1,24 @@
+  <form>
+    <div class="form-group">
+      <h3>Add a New Article</h3>
+      <label for="title">Title</label>
+      {{input class="form-control" value=title id="title"}}
+    </div>
+    <div class="form-group">
+      <label for="author">Author</label>
+      {{input class="form-control" value=author id="author"}}
+    </div>
+    <div class="form-group">
+      <label for="body">Body</label>
+      {{textarea class="form-control" rows=10 value=body id="body"}}
+    </div>
+    <div class="form-group">
+      <label for="image">Image Path</label>
+      {{input class="form-control" value=image id="image"}}
+    </div>
+    <div class="form-group">
+      <label for="date">Date</label>
+      {{input class="form-control" type="date" value=date id="date"}}
+    </div>
+  </form>
+  <button class="btn btn-primary" {{action 'saveArticle'}}>Save</button>
