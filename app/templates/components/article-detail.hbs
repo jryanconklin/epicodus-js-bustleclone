@@ -3,3 +3,6 @@
 <p>{{article.body}}</p>
 <img class="img img-responsive" src={{article.image}} alt="An article by {{article.author}}" />
 <button class='btn btn-danger' {{action 'delete' article}}>Delete</button>
+
+
+{{update-article article=article update='update'}}
