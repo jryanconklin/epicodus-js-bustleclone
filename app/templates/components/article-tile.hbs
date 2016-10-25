@@ -1,0 +1,11 @@
+<div class='row well'>
+    <div class='col-sm-6'>
+      <img class='img-responsive' src={{article.image}} alt={{article.title}}>
+    </div>
+    <div class='col-sm-6'>
+      <h3>{{#link-to 'article' article.id}}{{article.title}}{{/link-to}}</h3>
+      <p>{{article.body}}</p>
+      <p class='pull-left'>By {{article.author}}</p>
+      <p class='pull-right'>{{article.date}}</p>
+    </div>
+</div>

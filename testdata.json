@@ -1,0 +1,32 @@
+{ "articles": [{
+    "title": "Big Splash!",
+    "author": "Chester Worthington",
+    "body": "Did you know squirrels can swim? They can!",
+    "image": "https://s-media-cache-ak0.pinimg.com/564x/57/e6/cf/57e6cfbbc2c42d5e86ff3d0133245b94.jpg",
+    "date": "12/31/15"
+  }, {
+    "title": "8 Halloween Party Ideas",
+    "author": "Kirsten Nunez",
+    "body": "Halloween is just around the corner, people. And as someone who is obsessed with party planning, I will always love searching for Halloween party ideas for adults. It comes down to giving this yearly celebration a grown-up spin while enjoying the spirit of the holiday. Besides, who says kids get to have all the fun?",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/19/c2bc59db-d9fd-4be3-8ba8-fe75f693191f.png?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "date": "10/1/16"
+  }, {
+    "title": "7 Butterbeer Recipes That Taste Just Like Harry Potter's Favorite Drink",
+    "author": "JULIA SEALES",
+    "body": "Harry Potter fans first read about Butterbeer in Harry Potter and the Prisoner of Azkaban. Students took trips to Hogsmeade, where they tasted the sweet beverage at the Three Broomsticks. Harry believes it is “the most delicious thing he'd ever tasted” and describes how it “seemed to heat every bit of him from the inside.” So how does it really taste, and how can you make Butterbeer? I'm here to tell you.",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/6c1bc598-24b3-4ed4-8aae-3908cdc8aae4.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "date": "10/25/16"
+  }, {
+    "title": "5 DIY Pumpkin Hair Treatments That Will Give You Luscious Locks",
+    "author": "KRISTIN COLLINS JACKSON",
+    "body": "While some may suffer from pumpkin spice fatigue, I'm still fully embracing the quintessential flavor of fall. In addition to making my coffee more delicious, everyone's favorite gourd has some serious beauty benefits. These DIY pumpkin hair treatments promote hair growth and offer deep conditioning effects my strands are begging for after a long summer of fully blasting AC. While everyone else is chugging pumpkin spice lattes, my hair will be guzzling up those carotenoids.",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/79698ef1-503d-41e9-a459-379c6b82bac6.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "date": "09/09/16"
+  }, {
+    "title": "5 Presidents Who Had Supernatural Encounters",
+    "author": "GABRIELLE MOSS",
+    "body": "I'm sure your parents/ teachers/ cheesiest roommates have already made enough 'This election is scarier than Halloween,' right? jokes to last you a lifetime, so I will spare you; however, this year's crossover between Halloween season and election season has left me genuinely thinking about the place where the spooky and the governmental intersect. Blame it on my habit of simultaneously watching American Horror Story while updating 538 on my phone — eventually, I started to wonder: are politicians too busy being super-rational to ever get involved with the supernatural? Or are they just as vulnerable to the occasional interaction with a thing that goes bump in the night as the rest of us?",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/24/c729ec55-3dd9-4b33-86d4-e064606ab637.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "date": "10/16/16"
+  }]
+}
